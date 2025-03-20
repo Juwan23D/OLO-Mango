@@ -11,19 +11,20 @@ Between 2019 and 2022, OlO-Mango generated $28M in total sales from 108,000 orde
 
 # Insights
 
-### Sales Trends
+### Sales Trends :
 
 ![image](https://github.com/user-attachments/assets/c4e0c6d1-435e-498b-ac0a-b1e1bf86f738)
 
 From 2019 to 2020, the average monthly sales were $585K, with 2,253 orders and an Average Order Value (AOV) of $260. 2020 was the strongest sales year, surpassing $10M in total revenue and averaging $846K in monthly sales. However, 2021 recorded the highest order volume at 35K, indicating a shift toward increased purchase frequency but with lower-value orders. 2020 also had the highest AOV at $300, suggesting that customers purchased more expensive products that year.
 
+### Geographical Insights :
 ![Screenshot 2025-03-20 011159](https://github.com/user-attachments/assets/3cb8e3b6-483e-4c89-a082-66e069aa2c1d)
 
 
 North America leads in total sales, contributing 51.79%, followed by Europe (29.25%), Asia-Pacific (13%), and Latin America (5.96%). The 27-inch 4K Gaming Monitor was the top-selling product across all regions, generating over $9 million in revenue.
 Beyond gaming monitors, notable brand preferences emerged:
 * Apple Air Headphones dominated headphone sales, accounting for 28% of total revenue, while Bose SoundSport Headphones held a negligible 0.012% share.
-* MacBook Air claimed 22% of total laptop sales, nearly doubling its competitor, the ThinkPad Laptop (11%).
+* MacBook Air claimed 22% of total laptop sales, doubling its competitor, the ThinkPad Laptop (11%).
 
 This strong brand favoritism suggests potential opportunities for strategic partnerships, pricing adjustments, or targeted marketing campaigns. Further analysis into customer sentiment, brand perception, and regional buying behavior could provide insights to refine Olo-Mango’s product positioning and promotional efforts.
 
