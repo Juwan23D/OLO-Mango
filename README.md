@@ -33,6 +33,13 @@ This strong brand favoritism suggests potential opportunities for strategic part
 
 2020 was Olo-Mango’s strongest year, with sales nearly tripling, orders doubling, and AOV rising 31%. The largest spike occurred in March 2020, with a 50% sales increase—likely driven by pandemic-induced e-commerce demand. However, growth slowed post-2020. 2021 saw the highest order volume (35K), but total sales lagged behind, indicating a shift toward lower-value purchases. AOV declined after 2020, suggesting the high-ticket sales surge was temporary, with demand normalizing in a post-pandemic market.
 
+### Loyalty Program
+![Screenshot 2025-03-20 092414](https://github.com/user-attachments/assets/568b1c11-687c-479d-8b0c-0ee379670317)
+
+The loyalty program saw exceptional growth in 2020, with a 614% sales increase and 550% more orders. Since 2021, it has consistently outperformed regular members in sales and orders, and by 2022, it also surpassed them in AOV.
+
+
+
 
 
 
