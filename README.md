@@ -28,6 +28,13 @@ Beyond gaming monitors, notable brand preferences emerged:
 
 This strong brand favoritism suggests potential opportunities for strategic partnerships, pricing adjustments, or targeted marketing campaigns. Further analysis into customer sentiment, brand perception, and regional buying behavior could provide insights to refine Olo-Mango’s product positioning and promotional efforts.
 
+![image](https://github.com/user-attachments/assets/f5abc1c4-a2a0-4365-94ac-028c8cb36a07)
+
+2020 was a standout year for Olo-Mango, with sales nearly tripling, orders doubling, and AOV increasing by 31%. The most significant surge occurred in March 2020, with sales growing over 50% and orders increasing 46% from the previous month—likely driven by heightened e-commerce demand during pandemic lockdowns.
+However, this momentum was not sustained in the following years. 2021 recorded the highest order volume (35K), yet total sales fell short of 2020’s peak, indicating a shift toward lower-value purchases or smaller orders per customer. The declining AOV post-2020 suggests that the surge in high-ticket sales was temporary, and consumer demand has since normalized, potentially signaling a post-pandemic market correction.
+
+
+
 
 
 
