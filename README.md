@@ -60,7 +60,7 @@ Apple products were a key driver of sales for OLO-Mango, with over 52,000 units 
 
 ### Loyalty Program :
 
-* OLO-Mango should keep its loyalty program, as it’s outperforming non-loyal members. Adding personalized rewards, tiered benefits, a points system for repeat purchases, and encouraging customers to share on social media will increase engagement and attract new members
+* OLO-Mango should keep its loyalty program, as it’s outperforming non-loyal members. Adding personalized rewards, tiered benefits, a points system for repeat purchases, and incentivizing customers to share on social media will increase engagement and attract new members
 
 ### Refund Rates :
 
