@@ -42,6 +42,33 @@ The loyalty program saw exceptional growth in 2020, with a 614% sales increase a
 
 Apple products were a key driver of sales for OLO-Mango, with over 52,000 units sold and a low return rate of 6% (3,111 items). The AirPods Headphones accounted for most returns (2,636 items, 5%), indicating potential product or customer satisfaction concerns. Refund rates peaked in 2020 at 10% (1,853 items), likely due to the pandemic-driven surge in online shopping. However, 2021 saw a significant improvement, with the rate dropping to 4% (713 items). While 2022 currently reflects a 0% refund rate, a data validation with the payments team is necessary to confirm accuracy.
 
+# Reccomendations
+
+### Sales:
+
+* The rise of gaming and content creation post-2020 has created an opportunity to bundle high-performance products like the 4K gaming monitor, MacBook, and Apple headphones. As many are still unfamiliar with the best equipment for social media ventures, we will test tailored combinations such as a gaming bundle, content creation pack, and travel tech parcel. OLO will also educate consumers on how key product features meet their needs, empowering their choices and building stronger relationships.
+
+* Apple has a brand preference compared to the other products so establishing a business relationship could help marketing efforts. Gaining access to more Apple products such as cases, watches, chargers, and services such as Apple certified - tech support, trade in programs, and purchase recommendations, can help OLO-Mango leverage Apples premium brand perception for various marketing campaigns.
+
+### Geography:
+
+* The regional variance in performance suggests OLO-Mango’s brand recognition outside North America needs improvement. I recommend a marketing research campaign for the EMEA, LATNAM, and APAC regions, using surveys to understand customer sentiment, local preferences, and opportunities for website localization. By examining cultural influences, such as the perception of designs as status symbols, the Marketing Team can tailor campaigns, while the Web Development Team can optimize the site for each market.
+
+### Growth Rates:
+
+* To drive growth, OLO-Mango should strengthen its brand position. The unpredictable spikes of 2020 highlight the risks of relying on volatility. A steady approach can be achieved by optimizing social media to showcase products in action, share customer reviews, and educate consumers on technology. Offering budget-friendly options and running seasonal promotions, like a holiday sale in November/December and a Spring Sale in March, can offset slower growth months.
+
+### Loyalty Program:
+
+* OLO-Mango should keep its loyalty program, as it’s outperforming non-loyal members. Adding personalized rewards, tiered benefits, a points system for repeat purchases, and encouraging customers to share on social media will increase engagement and attract new members
+
+### Refund Rates:
+
+*To reduce returns, implement a survey to understand why customers are returning Apple Headphones—whether it's due to defects, sound quality, or usability issues. Offering product guides and extended support can also reduce the need for refunds. Lastly, confirm the 2022 refund rate with the Payments and Logistics teams
+
+
+
+
 
 
 
