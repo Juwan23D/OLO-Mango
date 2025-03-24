@@ -14,7 +14,7 @@ Between 2019 and 2022, OlO-Mango generated $28M in total sales from 108,000 orde
 
 ![image](https://github.com/user-attachments/assets/c4e0c6d1-435e-498b-ac0a-b1e1bf86f738)
 
-From 2019 to 2020, the average monthly sales were $585K, with 2,253 orders and an Average Order Value (AOV) of $260. 2020 was the strongest sales year, surpassing $10M in total revenue and averaging $846K in monthly sales. However, 2021 recorded the highest order volume at 35K, indicating a shift toward increased purchase frequency but with lower-value orders. 2020 also had the highest AOV at $300, suggesting that customers purchased more expensive products that year.
+From 2019 to 2022, the average monthly sales were $585K, with 2,253 orders and an Average Order Value (AOV) of $260. 2020 was the strongest sales year, surpassing $10M in total revenue and averaging $846K in monthly sales. However, 2021 recorded the highest order volume at 35K, indicating a shift toward increased purchase frequency but with lower-value orders. 2020 also had the highest AOV at $300, suggesting that customers purchased more expensive products that year.
 
 ### Geographical Insights :
 ![Screenshot 2025-03-20 011159](https://github.com/user-attachments/assets/3cb8e3b6-483e-4c89-a082-66e069aa2c1d)
