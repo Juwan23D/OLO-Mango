@@ -38,7 +38,8 @@ This strong brand favoritism suggests potential opportunities for strategic part
 The loyalty program saw exceptional growth in 2020, with a 614% sales increase and 550% more orders. Since 2021, it has consistently outperformed regular members in sales and orders, and by 2022, it also surpassed them in AOV.
 
 ### Refund Rates
-![Screenshot 2025-03-20 124132](https://github.com/user-attachments/assets/cc41f456-11e4-4536-bc8e-1a82b805cdd4)
+![Screenshot 2025-03-23 195202](https://github.com/user-attachments/assets/6b0b7e34-616f-4b13-afb1-7cd908769093)
+
 
 Apple products were a key driver of sales for OLO-Mango, with over 52,000 units sold and a low return rate of 6% (3,111 items). The AirPods Headphones accounted for most returns (2,636 items, 5%), indicating potential product or customer satisfaction concerns. Refund rates peaked in 2020 at 10% (1,853 items), likely due to the pandemic-driven surge in online shopping. However, 2021 saw a significant improvement, with the rate dropping to 4% (713 items). While 2022 currently reflects a 0% refund rate, a data validation with the payments team is necessary to confirm accuracy.
 
