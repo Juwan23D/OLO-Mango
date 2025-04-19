@@ -1,6 +1,6 @@
 # OLO-Mango
 
-OlO-Mango is a growing e-commerce company connecting high-end electronics from premium brands like Apple, Sony, and Samsung with consumers through its online store. With a focus on competitive pricing, fast shipping, and a seamless online shopping experience, the company aims to enhance customer satisfaction and expand its market share. To support this growth, OlO-Mango has collected historical transaction data—including orders, customer demographics, product performance, and geographic trends—for an analysis that will develop data-driven strategies to optimize operations and marketing efforts. The Insights provided will give understanding to where the company currently stands and identify opportunities on how they can become the preferred online destination for electronics.
+OlO-Mango is a growing e-commerce company connecting high-end electronics from premium brands like Apple, Sony, and Samsung with consumers through its online store. With a focus on competitive pricing, fast shipping, and a seamless online shopping experience, the company aims to enhance customer satisfaction and expand its market share. To support this growth, OlO-Mango has collected historical transaction data including orders, customer demographics, product performance, and geographic trends for an analysis that will develop data driven strategies to optimize operations and marketing efforts. The Insights provided will give understanding to where the company currently stands and identify opportunities on how they can become the preferred online destination for electronics.
 
 # Dataset
 This dataset includes 4 linked tables that track the full customer journey, from how customers were acquired, to what they purchased, how orders were fulfilled, and where purchases occurred. It captures details on orders, marketing channels, shipping timelines, and regional data, making it easy to analyze sales trends, delivery performance, and customer behavior across different locations.
@@ -16,7 +16,7 @@ Between 2019 and 2022, OlO-Mango generated $28M in total sales from 108,000 orde
 
 ![image](https://github.com/user-attachments/assets/c4e0c6d1-435e-498b-ac0a-b1e1bf86f738)
 
-From 2019 to 2022, the average monthly sales were $585K, with 2,253 orders and an Average Order Value (AOV) of $260. 2020 was the strongest sales year, surpassing $10M in total revenue and averaging $846K in monthly sales. However, 2021 recorded the highest order volume at 35K, indicating a shift toward increased purchase frequency but with lower-value orders. 2020 also had the highest AOV at $300, suggesting that customers purchased more expensive products that year.
+From 2019 to 2022, the average monthly sales were $585K, with 2,253 orders and an Average Order Value (AOV) of $260. 2020 was the strongest sales year, surpassing $10M in total revenue and averaging $846K in monthly sales. However, 2021 recorded the highest order volume at 35K, indicating a shift toward increased purchase frequency but with lower value orders. 2020 also had the highest AOV at $300, suggesting that customers purchased more expensive products that year.
 
 ### Geographical Insights :
 ![Screenshot 2025-03-20 011159](https://github.com/user-attachments/assets/3cb8e3b6-483e-4c89-a082-66e069aa2c1d)
@@ -32,7 +32,7 @@ This strong brand favoritism suggests potential opportunities for strategic part
 ### Growth Rates :
 ![image](https://github.com/user-attachments/assets/f5abc1c4-a2a0-4365-94ac-028c8cb36a07)
 
-2020 was Olo-Mango’s strongest year, with sales nearly tripling, orders doubling, and AOV rising 31%. The largest spike occurred in March 2020, with a 50% sales increase—likely driven by pandemic-induced e-commerce demand. However, growth slowed post-2020. 2021 saw the highest order volume (35K), but total sales lagged behind, indicating a shift toward lower-value purchases. AOV declined after 2020, suggesting the high-ticket sales surge was temporary, with demand normalizing in a post-pandemic market.
+2020 was Olo-Mango’s strongest year, with sales nearly tripling, orders doubling, and AOV rising 31%. The largest spike occurred in March 2020, with a 50% sales increase likely driven by pandemic induced e-commerce demand. However, growth slowed post-2020. 2021 saw the highest order volume (35K), but total sales lagged behind, indicating a shift toward lower value purchases. AOV declined after 2020, suggesting the high ticket sales surge was temporary, with demand normalizing in a post pandemic market.
 
 ### Loyalty Program
 ![Screenshot 2025-03-20 092414](https://github.com/user-attachments/assets/568b1c11-687c-479d-8b0c-0ee379670317)
