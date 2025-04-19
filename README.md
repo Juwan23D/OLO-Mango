@@ -4,7 +4,6 @@ OlO-Mango is a growing e-commerce company connecting high-end electronics from p
 
 # Dataset
 This dataset includes 4 linked tables that track the full customer journey, from how customers were acquired, to what they purchased, how orders were fulfilled, and where purchases occurred. It captures details on orders, marketing channels, shipping timelines, and regional data, making it easy to analyze sales trends, delivery performance, and customer behavior across different locations.
-### **[ERD](https://github.com/Juwan23D/OLO-Mango/blob/main/Elist%20erd.png)**
 
 ![image](https://github.com/Juwan23D/OLO-Mango/blob/main/Elist%20erd.png)
 
