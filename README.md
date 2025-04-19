@@ -2,6 +2,8 @@
 
 OlO-Mango is a growing e-commerce company connecting high-end electronics from premium brands like Apple, Sony, and Samsung with consumers through its online store. With a focus on competitive pricing, fast shipping, and a seamless online shopping experience, the company aims to enhance customer satisfaction and expand its market share. To support this growth, OlO-Mango has collected historical transaction data—including orders, customer demographics, product performance, and geographic trends—for an analysis that will develop data-driven strategies to optimize operations and marketing efforts. The Insights provided will give understanding to where the company currently stands and identify opportunities on how they can become the preferred online destination for electronics.
 
+# Dataset
+This dataset includes 4 linked tables that track the full customer journey, from how customers were acquired, to what they purchased, how orders were fulfilled, and where purchases occurred. It captures details on orders, marketing channels, shipping timelines, and regional data, making it easy to analyze sales trends, delivery performance, and customer behavior across different locations.
 ### **[ERD](https://github.com/Juwan23D/OLO-Mango/blob/main/Elist%20erd.png)**
 
 # Overview
