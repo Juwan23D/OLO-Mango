@@ -6,6 +6,8 @@ OlO-Mango is a growing e-commerce company connecting high-end electronics from p
 This dataset includes 4 linked tables that track the full customer journey, from how customers were acquired, to what they purchased, how orders were fulfilled, and where purchases occurred. It captures details on orders, marketing channels, shipping timelines, and regional data, making it easy to analyze sales trends, delivery performance, and customer behavior across different locations.
 ### **[ERD](https://github.com/Juwan23D/OLO-Mango/blob/main/Elist%20erd.png)**
 
+![image](https://github.com/Juwan23D/OLO-Mango/blob/main/Elist%20erd.png)
+
 # Overview
 
 Between 2019 and 2022, OlO-Mango generated $28M in total sales from 108,000 orders, with an average order value (AOV) of $260. A low refund rate of 6% suggests strong customer satisfaction, while the COVID-19 lockdowns likely contributed to a 163% sales surge from 2019 to 2020. However, growth has since plateaued, prompting an analysis of past and current trends to identify strategies for sustained success.
